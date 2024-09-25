@@ -1,2 +1,2 @@
 # streamlit
-Library for creating web apps using the streamlit library
+Create web apps using the streamlit library
